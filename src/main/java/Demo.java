@@ -7,6 +7,7 @@ public class Demo {
        Object object = new Object();
         int i = 7;
         System.out.println("nihao");
+        System.out.println("李四");
     }
 
 }
