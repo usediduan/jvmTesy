@@ -8,6 +8,7 @@ public class Demo {
         int i = 7;
         System.out.println("nihao");
         System.out.println("李四");
+        System.out.println("555");
     }
 
 }
