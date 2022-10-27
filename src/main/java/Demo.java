@@ -6,6 +6,7 @@ public class Demo {
     public static void main(String[] args) throws ClassNotFoundException {
        Object object = new Object();
         int i = 5;
+        System.out.println("8848");
     }
 
 }
