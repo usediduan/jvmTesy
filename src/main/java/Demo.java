@@ -7,6 +7,7 @@ public class Demo {
        Object object = new Object();
         int i = 5;
         System.out.println("8848");
+        System.out.println("max");
     }
 
 }
