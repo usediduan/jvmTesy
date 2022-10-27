@@ -8,6 +8,7 @@ public class Demo {
         int i = 5;
         System.out.println("8848");
         System.out.println("max");
+        System.out.println("wangwu");
     }
 
 }
