@@ -5,10 +5,9 @@ public class Demo {
 
     public static void main(String[] args) throws ClassNotFoundException {
        Object object = new Object();
-        int i = 7;
-        System.out.println("nihao");
-        System.out.println("李四");
-        System.out.println("555");
+        int i = 5;
+        System.out.println("8848");
+        System.out.println("max");
     }
 
 }
